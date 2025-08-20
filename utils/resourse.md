@@ -1,7 +1,7 @@
 ### 资源
 
 1. [GitHub](https://github.com/)
-2. [Stack Overflow] (https://stackoverflow.com/)
+2. [Stack Overflow](https://stackoverflow.com/)
 
 
 ### 必看
